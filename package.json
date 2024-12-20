@@ -1,0 +1,16 @@
+{
+  "name": "@deandremoore/shop-cart-tracker",
+  "version": "1.0.0",
+  "description": "Shopping cart tracking script",
+  "main": "cart-tracker.js",
+  "files": [
+    "cart-tracker.js"
+  ],
+  "keywords": [
+    "shopify",
+    "cart",
+    "analytics"
+  ],
+  "author": "DeAndre Moore",
+  "license": "MIT"
+}
