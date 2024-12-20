@@ -2,7 +2,7 @@
 class CartEventTracker {
   constructor() {
     console.log('[Cart Tracker] Initializing...');
-    this.endpoint = '/api/metrics/cart-events';
+    this.endpoint = 'https://shop-googleanalytics-v2.vercel.app/api/metrics/cart-events';
     this.init();
   }
 
